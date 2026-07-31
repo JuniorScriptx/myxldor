@@ -11,11 +11,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/HzStoreXL/dorxl
+git clone https://github.com/JuniorScriptx/myxldor
 ```
 4. Open the folder
 ```
-cd dorxl
+cd myxldor
 ```
 5. Setup
 ```
